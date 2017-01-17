@@ -7,21 +7,21 @@ background-color:#EFF;
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
- background-color:red;}
+ background-color:#1f5bb5;}
 #b1{
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
- background-color:blue;}
+ background-color:#246ad4;}
 #c1{
 height: 300px;
  width: 300px;
- background-color:green;}
+ background-color:#266fde;}
 #a2{
 margin: 0 0 6px 0;
 height: 300px; 
  width: 300px;
- background-color:yellow;
+ background-color:#2369d1;
 position: static;
 
 }
@@ -29,25 +29,25 @@ position: static;
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
- background-color:black;}
+ background-color:#2773e6;}
 #c2{ 
 height: 300px;
  width: 300px;
- background-color:violet;}
+ background-color:#347be6;}
 #a3{
 margin: 0 0 6px 0;
 height: 300px; 
 width: 300px; 
-background-color:grey;}
+background-color:#266fde;}
 #b3{
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px; 
-background-color:tan;}
+background-color:#266fde;}
 #c3{
 height: 300px;
  width: 300px;
- background-color:orange;}
+ background-color:#5291ef;}
 
 .clam{
 background-color:white;
