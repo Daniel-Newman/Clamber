@@ -30,8 +30,7 @@ margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
  background-color:black;}
-.vs{
- position:absolute;
+#vs{ 
 height: 300px;
  width: 300px;
  background-color:violet;}
