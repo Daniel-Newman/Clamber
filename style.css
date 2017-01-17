@@ -3,21 +3,21 @@ width:918px;
 margin:25px auto;
 background-color:#EFF;
 }
-#rs{
+#a1{
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
  background-color:red;}
-#bs{
+#b1{
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
  background-color:blue;}
-#gs{
+#c1{
 height: 300px;
  width: 300px;
  background-color:green;}
-#ys{
+#a2{
 margin: 0 0 6px 0;
 height: 300px; 
  width: 300px;
@@ -25,26 +25,26 @@ height: 300px;
 position: static;
 
 }
-#bls{
+#b2{
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
  background-color:black;}
-#vs{ 
+#c2{ 
 height: 300px;
  width: 300px;
  background-color:violet;}
-#grs{
+#a3{
 margin: 0 0 6px 0;
 height: 300px; 
 width: 300px; 
 background-color:grey;}
-#ts{
+#b3{
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px; 
 background-color:tan;}
-#os{
+#c3{
 height: 300px;
  width: 300px;
  background-color:orange;}
