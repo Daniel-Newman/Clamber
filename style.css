@@ -47,7 +47,8 @@ background-color:#266fde;}
 #c3{
 height: 300px;
  width: 300px;
- background-color:#5291ef;}
+ background-color:#5291ef;
+}
 
 .clam{
 background-color:white;
@@ -57,7 +58,7 @@ margin: -100px 0 0 0;
     width: 912px;
     text-align: center;
     font-size: 180px;
-height:200px;
+    height:200px;
 }
 .row1{
 float:left;
