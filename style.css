@@ -31,6 +31,7 @@ height: 300px;
  width: 300px;
  background-color:black;}
 .vs{
+ position:absolute;
 height: 300px;
  width: 300px;
  background-color:violet;}
