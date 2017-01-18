@@ -13,15 +13,18 @@ height: 300px;
  width: 300px;
  background-color:#1f5bb5;}
 #b1{
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/soccer.jpg?raw=true");
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
  background-color:#246ad4;}
 #c1{
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/church.jpg?raw=true");
 height: 300px;
  width: 300px;
  background-color:#266fde;}
 #a2{
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/group.jpg?raw=true");
 margin: 0 0 6px 0;
 height: 300px; 
  width: 300px;
@@ -30,25 +33,30 @@ position: static;
 
 }
 #b2{
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/curic.jpg?raw=true");
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px;
  background-color:#2773e6;}
 #c2{ 
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/church.jpg?raw=true");
 height: 300px;
  width: 300px;
  background-color:#347be6;}
 #a3{
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/classes.jpg?raw=true");
 margin: 0 0 6px 0;
 height: 300px; 
 width: 300px; 
 background-color:#266fde;}
 #b3{
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/event.jpg?raw=true");
 margin: 0 0 6px 0;
 height: 300px;
  width: 300px; 
 background-color:#266fde;}
 #c3{
+    background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/classes.jpg?raw=true");
 height: 300px;
  width: 300px;
  background-color:#5291ef;
