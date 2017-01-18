@@ -9,10 +9,11 @@ var main = function(){
 
  });
  $('.locget .back').css({
- "background-color":"white",
+
  "width":"200px",
   "margin":"0 auto",
-   "text-align":"center" 
+   "text-align":"center" ,
+  "filter": "drop-shadow(8px 8px 10px white)"
  });
  $('.locget .back input[type=text]').css({
  "width":"120px",
