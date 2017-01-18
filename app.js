@@ -18,7 +18,6 @@ var main = function(){
  });
  $('.locget input[type=submit]').css({
   "background-color":"#2369d1",
-  "border":"0px",
   "border-radius":"15px"
   
   
