@@ -35,7 +35,7 @@ var zip = function (){
  }
 
  
-$('#c2').on('click', function(zip))
+$('#c2').on('click', zip)
 
 
 
