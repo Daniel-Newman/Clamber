@@ -1,5 +1,5 @@
 var main = function(){
- $('.wraper').blur(8px);
+ $('.wraper').css({"blur;" "8px"});
 $('#c2').on('click', function(){
  
   $('.clam').fadeOut(400);
