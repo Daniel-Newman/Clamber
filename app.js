@@ -11,7 +11,7 @@ var zip = function (){
  "width":"200px",
   "margin":"0 auto",
    "text-align":"center" ,
-  "filter": "drop-shadow(5px 5px 12px white, 4px)"
+  "filter": "drop-shadow(3px 3px 8px #DDD, 8px)"
   });
  $('.locget .back input[type=text]').css({
  "width":"120px",
