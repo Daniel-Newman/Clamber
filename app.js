@@ -2,7 +2,7 @@ var main = function(){
  $('.wraper').css({"filter": "blur(5px)"});
  $('body').append('<div class="locget"><form method="get"><div class="back"><input  placeholder="ZIP Code, City, Address"type="text" ></input><br/><br/><input type ="submit" value="Go"></input></form></div></div>');
  $('.locget').css({
- "position":"fixed",
+ "position":"absolute",
   "margin":"400px 0 0 0",
   "width":"100%"
 
@@ -13,7 +13,7 @@ var main = function(){
  "width":"200px",
   "margin":"0 auto",
    "text-align":"center" ,
-  "filter": "drop-shadow(5px 5px 20px white, 4px)"
+  "filter": "drop-shadow(5px 5px 12px white, 4px)"
  });
  $('.locget .back input[type=text]').css({
  "width":"120px",
