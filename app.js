@@ -10,7 +10,7 @@ var main = function(){
  });
  $('.locget .back').css({
  "background-color":"white",
- "width":"150px",
+ "width":"200px",
   "margin":"0 auto",
    "text-align":"center" 
  });
