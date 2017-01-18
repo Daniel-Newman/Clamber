@@ -1,6 +1,6 @@
 var main = function(){
  $('.wraper').css({"filter": "blur(5px)"});
- $('body').append('<div class="locget"><form method="get"><input = type"text">Zip Code</input><input type ="submit" value="Go"></input></form></div>');
+ $('body').append('<div class="locget"><form method="get"><input  placeholder="ZIP Code, City, Address"type="text" ></input><br/><br/><input type ="submit" value="Go"></input></form></div>');
  $('.locget').css({
  "position":"fixed",
   "margin":"auto 0 0 0",
