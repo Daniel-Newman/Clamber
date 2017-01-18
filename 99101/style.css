@@ -8,6 +8,18 @@ width:918px;
 margin:25px auto;
 background-color:#EFF;
 }
+.row1 img{
+height:300px;
+ width:300px;
+}
+.row2 img{
+height:300px;
+ width:300px;
+}
+.row3 img{
+height:300px;
+ width:300px;
+}
 #a1{
   background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/church.jpg?raw=true");
 margin: 0 0 6px 0;
