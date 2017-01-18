@@ -52,4 +52,4 @@ $('.row3').delay(600).fadeOut(800);
 
 
 
-$(document).ready(main);
+$('document').ready(main);
