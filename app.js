@@ -4,13 +4,15 @@ var main = function(){
  $('.locget').css({
  "position":"fixed",
   "margin":"400px 0 0 0",
-  "width":"100%",
-  "text-align":"center" 
+  "width":"100%"
+
 
  });
  $('.locget .back').css({
  "background-color":"white",
- "width":"150px"
+ "width":"150px",
+  "margin":"0 auto",
+   "text-align":"center" 
  });
  $('.locget .back input[type=text]').css({
  "width":"120px",
