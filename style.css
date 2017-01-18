@@ -53,8 +53,11 @@ height: 300px;
 .clam{
 margin: 359px 0 0 0;
  position: absolute;
- width:918px;
-    
+   
+}
+.clam img{
+width:918px;
+ height:180px;
 }
 .row1{
 float:left;
