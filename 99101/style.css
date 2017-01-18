@@ -9,6 +9,7 @@ margin:25px auto;
 background-color:#EFF;
 }
 #a1{
+ opacity:.5;
  background-size: 300px 300px;
   background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/church.jpg?raw=true");
 margin: 0 0 6px 0;
