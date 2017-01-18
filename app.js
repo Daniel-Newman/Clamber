@@ -14,8 +14,15 @@ var main = function(){
 "margin":"8px", 
   "border-radius":"10px",
 "border":"3px solid #347BE6",
-  "background-color":"#99c2ff",
+  "background-color":"#99c2ff"
  });
+ $('.locget input[type=submit]').css({
+  "background-color":"#2369d1",
+  "border":"0px",
+  "border-radius":"15px"
+  
+  
+  )};
  
  
  
