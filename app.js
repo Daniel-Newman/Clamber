@@ -19,7 +19,7 @@ var main = function(){
  $('.locget input[type=submit]').css({
   "background-color":"#2369d1",
   "border-radius":"15px",
-  "border":"0px"
+  "border":"0px",
   "padding":"10px 6px"
  });
  $('.locget input[type=submit]:hover').css({
