@@ -51,15 +51,10 @@ height: 300px;
 }
 
 .clam{
-background-color:white;
 margin: 359px 0 0 0;
  position: absolute;
-    width: 912px;
-    text-align: center;
     font-size: 180px;
     height:200px;
-    font-family:Bauhaus 93;
- color:red;
 }
 .row1{
 float:left;
