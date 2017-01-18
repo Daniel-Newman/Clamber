@@ -10,7 +10,7 @@ var main = function(){
  });
  $('.locget input[type=text]').css({
  "width":"120px",
-  "padding":"25px 20px",
+  "padding":"12px 20px",
 "margin":"8px", 
   "border-radius":"10px",
 "border":"3px solid #347BE6",
@@ -20,7 +20,7 @@ var main = function(){
   "background-color":"#2369d1",
   "border-radius":"15px",
   "border":"0px",
-  "padding":"10px 6px"
+  "padding":"10px 16px"
  });
  $('.locget input[type=submit]:hover').css({
   "background-color":"#1f5bb5"
