@@ -6,7 +6,18 @@ var main = function(){
   "margin":"auto 0 0 0",
   "width":"100%",
   "text-align":"center" 
+  "margin":"8px",
+  "border-radius":"10px",
+"border":"3px solid #347BE6",
+  "background-color":"#99c2ff;",
  });
+ $('.locget form input[type=text]').css({
+ "width":"120px",
+  "padding":"12px 20px",
+"margin":"8px", 
+ });
+ 
+ 
 $('#c2').on('click', function(){
  
   $('.clam').fadeOut(400);
