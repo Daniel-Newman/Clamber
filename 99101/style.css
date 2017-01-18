@@ -9,7 +9,6 @@ margin:25px auto;
 background-color:#EFF;
 }
 #a1{
- opacity:.4;
  background-size: 300px 300px;
   background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/church.jpg?raw=true");
 margin: 0 0 6px 0;
@@ -17,7 +16,7 @@ height: 300px;
  width: 300px;
  background-color:#1f5bb5;}
 #b1{
- opacity:.4;
+
 background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/soccer.jpg?raw=true");
 margin: 0 0 6px 0;
@@ -25,14 +24,14 @@ height: 300px;
  width: 300px;
  background-color:#246ad4;}
 #c1{
- opacity:.4;
+
  background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/places.jpg?raw=true");
 height: 300px;
  width: 300px;
  background-color:#266fde;}
 #a2{
- opacity:.4;
+
  background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/group.jpg?raw=true");
 margin: 0 0 6px 0;
@@ -43,7 +42,7 @@ position: static;
 
 }
 #b2{
- opacity:.4;
+
  background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/curic.jpg?raw=true");
 margin: 0 0 6px 0;
@@ -51,14 +50,14 @@ height: 300px;
  width: 300px;
  background-color:#2773e6;}
 #c2{ 
- opacity:.4;
+
  background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/church.jpg?raw=true");
 height: 300px;
  width: 300px;
  background-color:#347be6;}
 #a3{
- opacity:.4;
+
  background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/classes.jpg?raw=true");
 margin: 0 0 6px 0;
@@ -66,7 +65,7 @@ height: 300px;
 width: 300px; 
 background-color:#266fde;}
 #b3{
- opacity:.4;
+
  background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/event.jpg?raw=true");
 margin: 0 0 6px 0;
@@ -74,7 +73,7 @@ height: 300px;
  width: 300px; 
 background-color:#266fde;}
 #c3{
- opacity:.4;
+
  background-size: 300px 300px;
     background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/classes.jpg?raw=true");
 height: 300px;
