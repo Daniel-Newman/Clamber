@@ -13,7 +13,7 @@ var main = function(){
  "width":"200px",
   "margin":"0 auto",
    "text-align":"center" ,
-  "filter": "drop-shadow(8px 8px 10px white)"
+  "filter": "drop-shadow(5px 5px 20px white)"
  });
  $('.locget .back input[type=text]').css({
  "width":"120px",
