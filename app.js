@@ -32,9 +32,8 @@ var zip = function (){
  $('.locget .back input[type=submit]:hover').css({
   "background-color":"#1f5bb5"
  });
+}
 $('#c2').on('click', function(){
 $('document').zip();
 }); 
-}
-
 });
