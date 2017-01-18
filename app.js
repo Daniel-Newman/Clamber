@@ -1,5 +1,6 @@
 var main = function(){
- $('.wraper').css({"filter": "blur(8px)"});
+ $('.wraper').css({"filter": "blur(5px)"});
+ $('body').append('<h1>form</h1>);
 $('#c2').on('click', function(){
  
   $('.clam').fadeOut(400);
