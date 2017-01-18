@@ -33,7 +33,7 @@ var zip = function (){
   "background-color":"#1f5bb5"
  });
 $('#c2').on('click', function(){
-zip();
+$('document').zip();
 }); 
 }
 
