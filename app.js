@@ -1,4 +1,4 @@
-var main = function(){
+$(function(){
 var zip = function (){
   $('.wraper').css({"filter": "blur(5px) brightness(35%)"});
   $('.wraper .clam').css({"filter": "blur(5px) brightness(35%)"});
@@ -32,10 +32,11 @@ var zip = function (){
  $('.locget .back input[type=submit]:hover').css({
   "background-color":"#1f5bb5"
  });
- }
+$('#c2').on('click', zip()); 
+)};
 
  
-$('#c2').on('click', zip());
+
 
 
 
