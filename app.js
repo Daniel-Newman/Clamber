@@ -14,7 +14,7 @@ var zip = function (){
    "text-align":"center" ,
   "filter": "drop-shadow(3px 3px 8px #DDD, 8px)"
   });
- $('.locget .back input[type=select]').css({
+ $('.locget .back select').css({
  "width":"120px",
   "padding":"12px 20px",
 "margin":"8px", 
