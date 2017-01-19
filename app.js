@@ -15,10 +15,10 @@ var zip = function (){
   "filter": "drop-shadow(3px 3px 8px #DDD, 8px)"
   });
  $('.locget .back select').css({
- "width":"120px",
+ "width":"180px",
   "padding":"12px 20px",
 "margin":"8px", 
-  "border-radius":"10px",
+  "border-radius":"5px",
 "border":"3px solid #347BE6",
   "background-color":"#99c2ff"
  });
