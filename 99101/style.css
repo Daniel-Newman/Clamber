@@ -98,7 +98,7 @@ margin: 359px 0 0 0;
  position: absolute;
    
 }
-.wraper #a1, #a2, #a3, #b1, #b2, #b3, #c1, #c2, #c3:hover {
+.wraper #a1:hover, #a2:hover, #a3:hover, #b1:hover, #b2:hover, #b3:hover, #c1:hover, #c2:hover, #c3:hover {
 width:1000px;
 } 
 .row1{
