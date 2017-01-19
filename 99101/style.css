@@ -98,10 +98,9 @@ margin: 359px 0 0 0;
  position: absolute;
    
 }
-.clam img{
-width:918px;
- height:180px;
-}
+.wraper #a1, #a2, #a3, #b1, #b2, #b3, #c1, #c2, #c3:hover {
+width:1000px;
+} 
 .row1{
 float:left;
 margin: 3px;
