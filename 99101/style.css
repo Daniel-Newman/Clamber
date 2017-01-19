@@ -1,10 +1,5 @@
 
-   /* text-align: center;
-    /* margin-top: 35%; 
-    color: whitesmoke;
-    font-family: fantasy;
-    font-size: 65px;
-    text-shadow: 3px 5px cornflowerblue;*/
+    
 body{
 background-color:#DDE;
 }
@@ -12,6 +7,12 @@ background-color:#DDE;
 width:918px;
 margin:25px auto;
 background-color:#EFF;
+text-align: center;
+     margin-top: 35%; 
+    color: whitesmoke;
+    font-family: fantasy;
+    font-size: 65px;
+    text-shadow: 3px 5px cornflowerblue;
 }
 #a1{
  background-size: 300px 300px;
