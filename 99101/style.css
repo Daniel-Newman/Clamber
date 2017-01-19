@@ -10,10 +10,9 @@ background-color:#EFF;
 text-align: center;
     
 }
-span{
- margin-top: 50%; 
-}
+
 .boxtxt{
+    margin-top: 100px; 
     color: whitesmoke;
     font-family: Arial Black, cuckoo, boulder, fantasy;
     font-size: 45px;
