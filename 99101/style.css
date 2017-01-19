@@ -10,14 +10,17 @@ background-color:#EFF;
 text-align: center;
     
 }
-.boxtxt{
+span{
  margin-top: 50%; 
+}
+.boxtxt{
     color: whitesmoke;
     font-family: Arial Black, cuckoo, boulder, fantasy;
     font-size: 45px;
     text-shadow: 3px 5px cornflowerblue;
 
 }
+
 #a1{
  background-size: 300px 300px;
   background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/church.jpg?raw=true");
