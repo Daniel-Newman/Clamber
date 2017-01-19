@@ -24,7 +24,7 @@ var zip = function (){
  });
  $('.locget .back input[type=submit]').css({
   "background-color":"#2369d1",
-  "border-radius":"15px",
+  "border-radius":"5px",
   "border":"0px",
   "padding":"10px 16px",
   "box-shadow": "4px 4px 5px grey"
