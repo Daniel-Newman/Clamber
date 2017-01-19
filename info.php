@@ -1,15 +1,10 @@
 <!DOCTYPE html>
-
 <html>
-   
-<title>PHP!</title>
 <body>
+<h1>PHP INFO</h1>
+<?php 
+echo "hello world";
 
-<?php
-$x = 5;
-echo $x;
-echo "Hello";
 ?>
 </body>
-
 </html>
