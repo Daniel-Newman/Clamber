@@ -15,7 +15,7 @@ var zip = function (){
    "text-align":"center" ,
   "filter": "drop-shadow(3px 3px 8px #DDD, 8px)"
   });
- $('.locget .back select').css({
+ $('.locget .back a').css({
  "width":"180px",
   "padding":"12px 20px",
 "margin":"8px", 
@@ -23,13 +23,7 @@ var zip = function (){
 "border":"3px solid #347BE6",
   "background-color":"#99c2ff"
  });
- $('.locget .back input[type=submit]').css({
-  "background-color":"#2369d1",
-  "border-radius":"5px",
-  "border":"0px",
-  "padding":"10px 16px",
-  "box-shadow": "4px 4px 5px grey"
- });
+
  $('.locget .back input[type=submit]:hover').css({
   "background-color":"#1f5bb5"
  });
