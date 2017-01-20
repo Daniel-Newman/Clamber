@@ -14,6 +14,8 @@ background-color:#FEFEFF;
     height: 300px;
     width: 912px;
   background-size: 912px 300px;
+}
+.wrapper a {
 text-decoration:none;
 }
 .boxtxt {
