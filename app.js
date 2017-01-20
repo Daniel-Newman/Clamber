@@ -1,4 +1,4 @@
-$(function(){
+,$(function(){
 var zip = function (){
   $('.wraper').css({"filter": "blur(5px) brightness(35%)"});
   $('.wraper .clam').css({"filter": "blur(5px) brightness(35%)"});
@@ -20,7 +20,7 @@ var zip = function (){
   "padding":"12px 20px",
 "margin":"8px",
    "color":"#FEFEFE:",
-   "text-decoration":"none";
+   "text-decoration":"none",
   "background-color":"#347BE6"
  });
 
