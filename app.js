@@ -19,9 +19,7 @@ var zip = function (){
  "width":"180px",
   "padding":"12px 20px",
 "margin":"8px", 
-  "border-radius":"5px",
-"border":"3px solid #347BE6",
-  "background-color":"#99c2ff"
+  "background-color":"#347BE6"
  });
 
  $('.locget .back input[type=submit]:hover').css({
