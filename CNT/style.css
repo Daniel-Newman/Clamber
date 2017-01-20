@@ -13,7 +13,9 @@ background-color:#FEFEFF;
   filter: drop-shadow(0px 0px 3px black 2px);
     height: 300px;
     width: 912px;
-  background-size: 912px 300px;}
+  background-size: 912px 300px;
+text-decoration:none;
+}
 .boxtxt {
      margin: 3px 3px 3px 3px;
     padding-top: 10%;
@@ -22,6 +24,7 @@ background-color:#FEFEFF;
     font-size: 72px;
     text-shadow: 2px 2px 18px black;
     text-align: center;}
+
 #a{
    
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/us_flag1.jpg?raw=true");
