@@ -7,7 +7,6 @@ var zip = function (){
  "position":"absolute",
   "margin":"400px 0 0 0",
   "width":"100%",
-   "width":"200px",
   "margin":"0 auto",
    "text-align":"center" ,
   "filter": "drop-shadow(3px 3px 8px #DDD, 8px)",
