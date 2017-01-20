@@ -2,7 +2,7 @@ $(function(){
 var zip = function (){
   $('.wraper').css({"filter": "blur(5px) brightness(35%)"});
   $('.wraper .clam').css({"filter": "blur(5px) brightness(35%)"});
- $('body').append('<div class="locget"><form method="get" action="99101"><div class="back"><select id ="locationselect" placeholder="Select A Country"><option value ="United States">United States</option><option value ="United Kingdoms">United Kingdoms</option><option value ="Canada">Canada</option></select><br/><br/><input type ="submit" value="Go"></input></form></div></div>');
+ $('body').append('<div class="locget"><a href="/99114">Colville</a><a href="/99202">Spokane</a><form method="get" action="99101"><div class="back"><select id ="locationselect" placeholder="Select A Country"><option value ="United States">United States</option><option value ="United Kingdoms">United Kingdoms</option><option value ="Canada">Canada</option></select><br/><br/><input type ="submit" value="Go"></input></form></div></div>');
  $('.locget').css({
  "position":"absolute",
   "margin":"400px 0 0 0",
