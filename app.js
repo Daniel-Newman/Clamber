@@ -13,7 +13,7 @@ var zip = function (){
  "width":"200px",
   "margin":"0 auto",
    "text-align":"center" ,
-  "filter": "drop-shadow(3px 3px 8px #DDD, 8px)"
+  "filter": "drop-shadow(3px 3px 8px #DDD, 8px)",
  "color": "white",
 "text-decoration": "none", 
  });
