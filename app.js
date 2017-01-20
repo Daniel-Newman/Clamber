@@ -18,7 +18,9 @@ var zip = function (){
  $('.locget .back a').css({
  "width":"180px",
   "padding":"12px 20px",
-"margin":"8px", 
+"margin":"8px",
+   "color":"#FEFEFE:,
+   "text-decoration":"none";
   "background-color":"#347BE6"
  });
 
