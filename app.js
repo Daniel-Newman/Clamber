@@ -1,4 +1,4 @@
-,$(function(){
+$(function(){
 var zip = function (){
   $('.wraper').css({"filter": "blur(5px) brightness(35%)"});
   $('.wraper .clam').css({"filter": "blur(5px) brightness(35%)"});
