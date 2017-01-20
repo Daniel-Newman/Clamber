@@ -13,13 +13,13 @@ height: 300px;
 width: 912px; 
 background-size:912px 300px;
 }
-.boxtxt{
-    padding-top: 35%; 
+.boxtxt {
+    padding-top: 10%;
     color: whitesmoke;
     font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
-    font-size: 45px;
+    font-size: 72px;
     text-shadow: 2px 2px 18px black;
-
+    text-align: center;
 }
 
 #a{
