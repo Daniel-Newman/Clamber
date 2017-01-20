@@ -17,7 +17,7 @@ var zip = function (){
    "color":"white",
 "text-decoration": "none" 
  });
- $('.locget .backm a').css({
+ $('.locget .backm a:link, a:visited').css({
  "width":"180px",
   "padding":"12px 20px",
 "margin":"8px",
