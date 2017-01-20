@@ -9,11 +9,10 @@ margin:25px auto;
   background-color:#EFF;
 }
 .cntryboxes {
-margin: 3px;
-height: 300px;
-width: 912px; 
-background-size:912px 300px;
-}
+    margin: 3px 0 0 3px;
+    height: 300px;
+    width: 912px;
+  background-size: 912px 300px;}
 .boxtxt {
     padding-top: 10%;
     color: whitesmoke;
@@ -26,7 +25,12 @@ background-size:912px 300px;
 #a{
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/us_flag1.jpg?raw=true");
 }
-#b{
+#b {
+    background-image: url(https://github.com/Daniel-Newman/Clamber/blob/master/canada_flag.jpg?raw=true);
+    margin: 6px 0 6px 3px;
+
+
+
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/canada_flag.jpg?raw=true");
 }
 #c{
