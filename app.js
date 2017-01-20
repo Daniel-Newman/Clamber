@@ -6,11 +6,11 @@ var zip = function (){
  $('.locget').css({
  "position":"absolute",
   "margin":"400px 0 0 0",
-  "width":"100%"
+  "width":"100%",
    "width":"200px",
   "margin":"0 auto",
    "text-align":"center" ,
-  "filter": "drop-shadow(3px 3px 8px #DDD, 8px)"
+  "filter": "drop-shadow(3px 3px 8px #DDD, 8px)",
     "width":"180px",
   "padding":"12px 20px",
 "margin":"8px", 
