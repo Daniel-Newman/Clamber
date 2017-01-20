@@ -11,6 +11,7 @@ margin:25px auto;
 margin: 3px;
 height: 300px;
 width: 912px; 
+background-size: 300px 912px;
 }
 #a{
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/us_flag1.jpg?raw=true");
