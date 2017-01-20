@@ -1,9 +1,10 @@
 body{
-background-color:grey;
+background-color:black;
 
 }
 .wrapper{
 width:918px;
+height:100%;
 margin:25px auto;
   background-color:#EFF;
 }
