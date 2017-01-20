@@ -41,3 +41,13 @@ background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/cana
 #c{
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexico_flag.jpg?raw=true");
 }
+p{
+
+}
+.squs{
+height:300px;
+width:300px;
+display: inline-block;
+background-color:red;
+  margin:3px;
+}
