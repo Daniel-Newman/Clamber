@@ -2,3 +2,8 @@ body{
 background-color:magenta;
 
 }
+.wrapper{
+width:918px;
+margin:25px auto;
+  background-color:#EFF;
+}
