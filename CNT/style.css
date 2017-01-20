@@ -7,9 +7,9 @@ width:918px;
 height:100%;
 margin:25px auto;
   background-color:#EFF;
+  padding:3px;
 }
 .cntryboxes {
-    margin: 3px 0 0 3px;
     height: 300px;
     width: 912px;
   background-size: 912px 300px;}
@@ -21,13 +21,15 @@ margin:25px auto;
     text-shadow: 2px 2px 18px black;
     text-align: center;}
 #a{
+      margin: 3px 3px 3px 3px;
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/us_flag1.jpg?raw=true");
 }
 #b {
     background-image: url(https://github.com/Daniel-Newman/Clamber/blob/master/canada_flag.jpg?raw=true);
-    margin: 6px 0 6px 3px;
+    margin: 3px 3px 3px 3px;
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/canada_flag.jpg?raw=true");
 }
 #c{
+      margin: 3px 3px 3px 3px;
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexico_flag.jpg?raw=true");
 }
