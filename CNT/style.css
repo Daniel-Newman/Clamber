@@ -10,10 +10,12 @@ background-color:#FEFEFF;
   padding:3px;
 }
 .cntryboxes {
+  filter: drop-shadow(0px 0px 3px black 2px);
     height: 300px;
     width: 912px;
   background-size: 912px 300px;}
 .boxtxt {
+     margin: 3px 3px 3px 3px;
     padding-top: 10%;
     color: whitesmoke;
     font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
@@ -21,7 +23,7 @@ background-color:#FEFEFF;
     text-shadow: 2px 2px 18px black;
     text-align: center;}
 #a{
-      margin: 3px 3px 3px 3px;
+   
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/us_flag1.jpg?raw=true");
 }
 #b {
@@ -30,6 +32,5 @@ background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/us_f
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/canada_flag.jpg?raw=true");
 }
 #c{
-      margin: 3px 3px 3px 3px;
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexico_flag.jpg?raw=true");
 }
