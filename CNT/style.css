@@ -41,11 +41,11 @@ background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/cana
 #c{
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexico_flag.jpg?raw=true");
 }
-p{
+.wrapper p{
     text-align: center;
     font-size: 40px;
     font-family: monospace;
-    background-color: #112332;
+    background-color: #234561;
     border-radius: 2px;
     color: white;
     padding: 9px;
