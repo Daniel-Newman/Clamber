@@ -88,11 +88,11 @@ background-size
 
 }
 #a1{
-background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/trump_inauguration.jpg?raw=true");
+background-color:#1F5BB5;
 }
 #a2{
-background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/wdw.jpg?raw=true");
+background-color:#2369D1;
 }
 #a3{
-background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/super-bowl-logo.jpg?raw=true");
+    background-color:#266FDE;
 }
