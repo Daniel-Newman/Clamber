@@ -33,14 +33,14 @@ text-decoration:none;
 
 #a{
    
-background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/us_flag1.jpg?raw=true");
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/apples.jpg?raw=true");
 }
 #b {
     margin: 6px 0px 6px 0px;
-background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/canada_flag.jpg?raw=true");
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/Hazelnuts.jpg?raw=true");
 }
 #c{
-background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexico_flag.jpg?raw=true");
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/potato.jpg?raw=true");
 }
 .wrapper p{
     text-align: center;
