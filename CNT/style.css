@@ -54,7 +54,7 @@ background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexi
 .squs{
         height: 300px;
     width: 300px;
-    display: inline-block;
+    float:left;
     background-color: #112332;
     margin: 1px;
     text-align: center;
