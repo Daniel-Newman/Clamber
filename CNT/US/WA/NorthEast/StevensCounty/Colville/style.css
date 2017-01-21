@@ -16,10 +16,11 @@ height:120px;
 background-color:#2773e6;
 }
 .menubar #colville {
-    padding-top: 35%; 
+    padding:5px;
+    text-align:center;
     color: whitesmoke;
     font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
-    font-size: 45px;
+    font-size: 50px;
   
 }
 .boxtxt{
