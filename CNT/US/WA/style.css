@@ -33,20 +33,21 @@ text-decoration:none;
 
 #a{
    
-/*background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/apples.jpg?raw=true");*/
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/fbccolville.jpg?raw=true");
 background-color:#2b674d;
 }
 #b {
     margin: 6px 0px 6px 0px;
   background-color:#2B674D;
   
-/*background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/Hazelnuts.jpg?raw=true");
-*/
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/NCFCA-Logo.jpg?raw=true");
+
 }
 #c{
   background-color:#35a072;
-/*background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/potato.jpg?raw=true");
-*/
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/manito-park.jpg?raw=true
+");
+
 }
 .wrapper p{
     text-align: center;
