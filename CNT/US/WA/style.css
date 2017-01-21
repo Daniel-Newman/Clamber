@@ -84,7 +84,7 @@ position: relative;
 }
 #row1, #row2, #row3{
 float:left;
-background-size
+background-size:300px 300px;
 
 }
 #a1{
@@ -94,5 +94,5 @@ background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/trum
 background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/wdw.jpg?raw=true");
 }
 #a3{
-background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/super-bowl-logo.jpg?raw=true");
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/manito-park.jpg?raw=true");
 }
