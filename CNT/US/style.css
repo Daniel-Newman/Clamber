@@ -78,7 +78,16 @@ position: relative;
 }
 #row1, #row2, #row3{
 float:left;
+background-size
 
-
+}
+#a1{
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/trump_inauguration.jpg?raw=true");
+}
+#a2{
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/wdw.jpg?raw=true");
+}
+#a3{
+background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/super-bowl-logo.jpg?raw=true");
 }
 
