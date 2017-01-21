@@ -10,7 +10,18 @@ background-color:#EFF;
 text-align: center;
 position: relative;   
 }
-
+.menubar {
+width:100%;
+height:120px;
+background-color:#2773e6;
+}
+.menubar #colville {
+    padding-top: 35%; 
+    color: whitesmoke;
+    font-family: Arial Black, Myriad, cuckoo, boulder, fantasy;
+    font-size: 45px;
+  
+}
 .boxtxt{
     padding-top: 35%; 
     color: whitesmoke;
