@@ -54,16 +54,14 @@ background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexi
 .squs{
    
     background-color: #112332;
-    margin: 0 0 6px 0;
+    margin: 3px;
     height: 300px;
     width: 300px;
     text-align: center;
    
     font-size: 30px;
 }
-#a3{
-margin:30px 0 0 0;
-}
+
 .squs span{
  padding-top: 35%; 
     color: whitesmoke;
