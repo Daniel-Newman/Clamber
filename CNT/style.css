@@ -1,3 +1,4 @@
+
 body{
 background-color:#FEFEFF;
 
@@ -61,4 +62,8 @@ background-image: url("https://github.com/Daniel-Newman/Clamber/blob/master/mexi
     color: white;
     font-family: arial black;
     font-size: 30px;
+}
+.squs span{
+margin: 12% 0 0 0;
+
 }
