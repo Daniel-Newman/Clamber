@@ -1,10 +1,8 @@
-<!DOCTYPE html>
 <html>
-<body>
-<h1>PHP INFO</h1>
-<?php 
-echo "hello world";
+ <body>
 
-?>
-</body>
-</html>
+ Welcome <?php echo $_POST["name"]; ?><br>
+
+
+ </body>
+ </html> 
